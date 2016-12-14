@@ -17,7 +17,8 @@ public class DemoJavaClassExample {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World");
-        System.err.println("THis is on Cloud");
+        System.out.println("THis is on Cloud");
+        System.out.println("Cloud to Local);
     }
     
 }
